@@ -19,7 +19,8 @@ Next.js App → NextAuth → Keycloak → Identity Provider (auto) → Keycloak 
 3.  Preencha os dados:
 
     ```
-    Application name: Seu App NameHomepage URL: http://localhost:3000
+    Application name: Seu App Name
+    Homepage URL: http://localhost:3000
     Authorization callback URL: http://localhost:5050/realms/example/broker/github/endpoint
     ```
 
