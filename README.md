@@ -93,7 +93,8 @@ Para que os usuários sejam automaticamente redirecionados para o GitHub:
 5.  **Actions** → **Config**:
 
     ```yaml
-    Alias: github-auto-redirectDefault Identity Provider: github
+    Alias: github-auto-redirect
+    Default Identity Provider: github
 
     ```
 
